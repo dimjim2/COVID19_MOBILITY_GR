@@ -1,0 +1,10 @@
+from Plots.plots import make_plot, make_hist, make_boxplot, barplot_regions_cumulative_covid_cases, pieplot_covid_regional, \
+    make_bar_plot_regions_by_date
+
+from utils.dataOperations import load_data_from_table
+
+df_cases_by_area_cumulative = load_data_from_table("covid_area_cumulative_cases")
+print(df_cases_by_area_cumulative)
+print(df_cases_by_area_cumulative.dtypes)
+barplot_regions_cumulative_covid_cases(df_cases_by_area_cumulative)
+pieplot_covid_regional(df_cases_by_area_cumulative)
