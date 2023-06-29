@@ -12,8 +12,8 @@ In this thesis, datasets were used that capture human mobility during the corona
 
 1. Apple COVID-19 Mobility Trends Report [Apple Inc.](https://covid19.apple.com/mobility)
 2. Google COVID-19 Community Mobility Reports [Google LLC](https://www.google.com/covid19/mobility/)
-3. Sanbird COVID-19 Greece [iMEdD-Lab](https://github.com/iMEdD-Lab/open-data/tree/master/COVID-19)
-4. iMEdD-Lab  [Sandbird](https://github.com/Sandbird/covid19-Greece)
+3. iMEdD-Lab [iMEdD-Lab](https://github.com/iMEdD-Lab/open-data/tree/master/COVID-19)
+4. Sanbird COVID-19 Greece [Sandbird](https://github.com/Sandbird/covid19-Greece)
 5. COVID-19-Response Greece  [Covid-19 Response Greece](https://github.com/Covid-19-Response-Greece/covid19-data-greece)
 
    
