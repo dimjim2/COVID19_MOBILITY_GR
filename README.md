@@ -16,4 +16,12 @@ In this thesis, datasets were used that capture human mobility during the corona
 4. Sanbird COVID-19 Greece [Sandbird](https://github.com/Sandbird/covid19-Greece)
 5. COVID-19-Response Greece  [Covid-19 Response Greece](https://github.com/Covid-19-Response-Greece/covid19-data-greece)
 
+## Research findings
+The basic conclusion which resulted from the experimental study in real scenarios is that mobility is positively correlated with the contagion of the virus, since the existence of the vaccine against COVID- 19 and the number of cases, deaths and people in intensive care units interact both with each other but also with human mobility.
+
+The time series of walking during the pandemic showed higher prediction success rate from models , which is perhaps due to the smaller changes that rates of the walking index manifests in comparison with the driving time series (the existence of the lockdowns imposed restrictions on car travel which were not as intensive as in cases of outdoor exercise and walking).  In addition, the evolution of the virus in Greek society through the various experiments that have been conducted, appears to be more inextricably connected to human mobility in retail and recreation, public transport and parks categories against groceries and pharmacies, workplaces and residences mobility residence.
+
+## Keywords
+Machine learning, Data Analytics, Mobility data, COVID-19 pandemic, Timeseries forecasting, Urban data science
+
    
