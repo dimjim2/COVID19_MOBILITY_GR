@@ -11,9 +11,9 @@ Focusing on the geographical area of ​​Greece, the goal of this diploma thes
 In this thesis, datasets were used that capture human mobility during the coronavirus pandemic  and, more specifically, the datasets of Apple and Google and the datasets iMEdD-Lab, Sandbird COVID19-Greece and COVID-19 Response Greece, which are supported through appropriate GitHub repositories and provide useful information about COVID-19 cases, vaccinations, deaths and intensive care cases in Greece. The database was developed in PostgreSQL and consists of ten tables which are updated automatically via appropriate Python code. It is particularly important to mention that the data used and selected concern only the geographical area of Greece.
 
 1. Apple COVID-19 Mobility Trends Report [Apple Inc.](https://covid19.apple.com/mobility)
-2. Google COVID-19 Community Mobility Reports [Google LLC] (https://www.google.com/covid19/mobility/)
-3. Sanbird COVID-19 Greece [iMEdD-Lab] (https://github.com/iMEdD-Lab/open-data/tree/master/COVID-19)
-4. iMEdD-Lab  [Sandbird] (https://github.com/Sandbird/covid19-Greece)
-5. COVID-19-Response Greece  [Covid-19 Response Greece] (https://github.com/Covid-19-Response-Greece/covid19-data-greece)
+2. Google COVID-19 Community Mobility Reports [Google LLC](https://www.google.com/covid19/mobility/)
+3. Sanbird COVID-19 Greece [iMEdD-Lab](https://github.com/iMEdD-Lab/open-data/tree/master/COVID-19)
+4. iMEdD-Lab  [Sandbird](https://github.com/Sandbird/covid19-Greece)
+5. COVID-19-Response Greece  [Covid-19 Response Greece](https://github.com/Covid-19-Response-Greece/covid19-data-greece)
 
    
