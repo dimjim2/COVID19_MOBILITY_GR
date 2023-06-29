@@ -1,4 +1,4 @@
-# GR_COVID19_Mobility 🦠😷🚗 🏞️🚶🏽‍♂️
+# GR_COVID19_Mobility 🦠😷🚗 🏙️🚶🏽‍♂️
 Deployment of ML models for forecasting Greek citizens' mobility and pandemic indicators during COVID19 crisis.
 
 This repository contains the data, code, presentation and report of my diploma thesis for my BSc at University of Pireaus, Greece, supervised by Professor Yannis Theodoridis.
