@@ -24,4 +24,6 @@ The time series of walking during the pandemic showed higher prediction success 
 ## Keywords
 Machine learning, Data Analytics, Mobility data, COVID-19 pandemic, Timeseries forecasting, Urban data science
 
+## Acknowledgements
+I would like to express my sincere thanks to my supervising professor, Mr. Ioannis Theodoridis for his guidance, patience and interest which he demonstrated during the preparation of my thesis.In addition, I would like to thank the PhD candidate, Mr. AndreasTritsarolis for the support and help he offered me in difficulties and questions that arose during the writing stage. Finally, a big thanks goes to my family and friends for their support and understanding
    
